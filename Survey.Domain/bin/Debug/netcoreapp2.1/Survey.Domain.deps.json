@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Survey.Domain/1.0.0": {
+        "dependencies": {
+          "Survey.Entity": "1.0.0",
+          "Survey.Model": "1.0.0",
+          "Survey.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Survey.Domain.dll": {}
+        }
+      },
+      "Survey.Entity/1.0.0": {
+        "runtime": {
+          "Survey.Entity.dll": {}
+        }
+      },
+      "Survey.Model/1.0.0": {
+        "runtime": {
+          "Survey.Model.dll": {}
+        }
+      },
+      "Survey.Repository/1.0.0": {
+        "dependencies": {
+          "Survey.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Survey.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Survey.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Survey.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Survey.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Survey.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

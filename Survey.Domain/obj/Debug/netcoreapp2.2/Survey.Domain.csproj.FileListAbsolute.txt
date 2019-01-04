@@ -1,0 +1,16 @@
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Domain.deps.json
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Domain.dll
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Domain.pdb
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Entity.dll
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Model.dll
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Repository.dll
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Entity.pdb
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Model.pdb
+D:\Codes\Survey\Survey.Domain\bin\Debug\netcoreapp2.2\Survey.Repository.pdb
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.csprojAssemblyReference.cache
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.csproj.CoreCompileInputs.cache
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.AssemblyInfoInputs.cache
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.AssemblyInfo.cs
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.csproj.CopyComplete
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.dll
+D:\Codes\Survey\Survey.Domain\obj\Debug\netcoreapp2.2\Survey.Domain.pdb
