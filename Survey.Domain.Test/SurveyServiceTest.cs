@@ -44,7 +44,7 @@ namespace Survey.Domain.Test
 
         public SurveyServiceTest()
         {
-            surveyRepository = new SurveyRepositoryMemory();
+            surveyRepository = new SurveyRepositoryInMemory();
             surveyService = new SurveyService(surveyRepository);
         }
 
