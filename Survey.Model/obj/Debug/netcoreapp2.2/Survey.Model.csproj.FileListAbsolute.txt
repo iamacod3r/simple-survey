@@ -1,9 +1,0 @@
-D:\Codes\Survey\Survey.Model\bin\Debug\netcoreapp2.2\Survey.Model.deps.json
-D:\Codes\Survey\Survey.Model\bin\Debug\netcoreapp2.2\Survey.Model.dll
-D:\Codes\Survey\Survey.Model\bin\Debug\netcoreapp2.2\Survey.Model.pdb
-D:\Codes\Survey\Survey.Model\obj\Debug\netcoreapp2.2\Survey.Model.csproj.CoreCompileInputs.cache
-D:\Codes\Survey\Survey.Model\obj\Debug\netcoreapp2.2\Survey.Model.AssemblyInfoInputs.cache
-D:\Codes\Survey\Survey.Model\obj\Debug\netcoreapp2.2\Survey.Model.AssemblyInfo.cs
-D:\Codes\Survey\Survey.Model\obj\Debug\netcoreapp2.2\Survey.Model.dll
-D:\Codes\Survey\Survey.Model\obj\Debug\netcoreapp2.2\Survey.Model.pdb
-D:\Codes\Survey\Survey.Model\obj\Debug\netcoreapp2.2\Survey.Model.csprojAssemblyReference.cache

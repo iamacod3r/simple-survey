@@ -1,6 +1,6 @@
-## Simple Survey with .net core 2.2
+## Simple Survey with .net 5.0
 
-.net Core 2.2 version with **n-tier** architecture is used in this software.<br />
+.net 5.0 version with **n-tier** architecture is used in this software.<br />
 To store the data I used **Static** objects, and to avoid any conflicts with the data add or update processes<br />
 I used **'async lock'** method. Additionally, I included a test project to facilitate testing process. <br />
 
@@ -13,7 +13,7 @@ Therefore, it can be easily applied to other projects as well.
 * Getting Results of a Survey
 
 **How to run it ?**
-* First of, [download .net core 2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2)
+* First of, [download .net 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
 * Download [this repository](https://github.com/cihandokur/SimpleSurvey.git)
 * Navigate to the folder where you downloaded the code. 
 * Finally, type **dotnet run** command.
